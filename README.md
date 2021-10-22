@@ -13,7 +13,7 @@
     <a href="https://github.com/davezig/favorEats/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://favoreats-g12.herokuapp.com/">View Site</a>
+    <a href="https://favoreats-group.herokuapp.com/">View Site</a>
   </p>
 </p>
 
